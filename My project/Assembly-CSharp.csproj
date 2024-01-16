@@ -60,6 +60,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Environment\GenerateLevel.cs" />
     <Compile Include="Assets\Scripts\Collectables\CollectCoin.cs" />
+    <Compile Include="Assets\Scripts\Environment\LevelStarter.cs" />
     <Compile Include="Assets\Scripts\Environment\LevelBoundary.cs" />
     <Compile Include="Assets\Scripts\Collectables\RotateObject.cs" />
     <Compile Include="Assets\Scripts\Collectables\LevelDistance.cs" />
