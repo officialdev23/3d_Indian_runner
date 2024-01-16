@@ -12,7 +12,7 @@ public class LevelDistance : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(addingDis == false)
+        if(addingDis == false && PlayerMove.canMove == true) 
         {
             addingDis = true;
             StartCoroutine(AddingDis());
