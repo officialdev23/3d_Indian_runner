@@ -360,9 +360,13 @@
 "Assets/Scripts/Collectables/LevelDistance.cs"
 "Assets/Scripts/Collectables/ObstacleCollision.cs"
 "Assets/Scripts/Collectables/RotateObject.cs"
+"Assets/Scripts/Environment/Destroyer.cs"
+"Assets/Scripts/Environment/EndRunSequence.cs"
+"Assets/Scripts/Environment/EnemyMovement.cs"
 "Assets/Scripts/Environment/GenerateLevel.cs"
 "Assets/Scripts/Environment/LevelBoundary.cs"
 "Assets/Scripts/Environment/LevelStarter.cs"
+"Assets/Scripts/Menu/MainMenuFunction.cs"
 "Assets/Scripts/Player/PlayerMove.cs"
 -langversion:9.0
 
