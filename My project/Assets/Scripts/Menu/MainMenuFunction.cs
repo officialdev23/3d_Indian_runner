@@ -5,10 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuFunction : MonoBehaviour
 {
+    public GameObject playButton;
     // Start is called before the first frame update
     void Start()
     {
-        
+        BracketManager.Instance.SetSelectedGameObject(playButton);
     }
 
     // Update is called once per frame

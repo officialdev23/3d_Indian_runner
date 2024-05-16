@@ -319,6 +319,8 @@
 "Assets/Scripts/Environment/LevelBoundary.cs"
 "Assets/Scripts/Environment/LevelStarter.cs"
 "Assets/Scripts/Menu/MainMenuFunction.cs"
+"Assets/Scripts/Other/BracketManager.cs"
+"Assets/Scripts/Other/ButtonHighlighter.cs"
 "Assets/Scripts/Player/PlayerMove.cs"
 -langversion:9.0
 
